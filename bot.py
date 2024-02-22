@@ -59,7 +59,7 @@ async def op(_, m :Message):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🗯 Channel", url="https://t.me/vj_botz"),
+                        InlineKeyboardButton("🗯 Channel", url="https://t.me/colorwiz721"),
                         InlineKeyboardButton("💬 Support", url="https://t.me/vj_bot_disscussion")
                     ],[
                         InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/auto_accept_user_bot?startgroup")
@@ -101,10 +101,10 @@ async def chk(_, cb : CallbackQuery):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🗯 Channel", url="https://t.me/VJ_Botz"),
+                        InlineKeyboardButton("🗯 Channel", url="https://t.me/colorwiz721"),
                         InlineKeyboardButton("💬 Support", url="https://t.me/vj_bot_disscussion")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/vjmasterblastbot?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/auto_accept_user_bot?startgroup")
                     ]
                 ]
             )
